@@ -5,7 +5,7 @@ import { Avatar } from '../assets'
 import { isActiveStyles, isNotActiveStyles } from '../utils/styles'
 import { motion } from 'framer-motion'
 import { buttonClick, slideTop } from '../animations'
-import { MdLogout, MdShoppingCart } from '../assets/icons'
+import { MdLogout } from '../assets/icons'
 import { useDispatch, useSelector } from 'react-redux'
 import { getAuth } from "firebase/auth"
 import { app } from "../config/firebase.config"
@@ -68,12 +68,15 @@ const Header = () => {
                         onMouseLeave={() => setIsMenu(false)} 
                         className='px-6 py-4 w-48 bg-lightOverlay backdrop-blur-md rounded-md shadow-md absolute top-12 right-0 flex flex-col gap-4'
                         >
-                            <Link 
-                            className='hover:text-red-500 text-xl text-textColor' 
-                            to={"/dashboard/home"}
-                            >
-                                Dashboard
-                            </Link>
+                            {(user?.email && user?.email === "jinyizhou98@gmail.com") && (
+                                <Link 
+                                className='hover:text-red-500 text-xl text-textColor' 
+                                to={"/dashboard/home"}
+                                >
+                                    Dashboard
+                                </Link>
+                            )}
+                            
                             {/* <Link 
                             className='hover:text-red-500 text-xl text-textColor' 
                             to={"/profile"}

@@ -52,7 +52,7 @@ const DBHome = () => {
               ],
               datasets: [
                 {
-                  label: "Category wise count",
+                  label: "Quantity",
                   backgroundColor: "#f87979",
                   data: [
                     bakery?.length,
@@ -69,27 +69,6 @@ const DBHome = () => {
             labels="months"
             />
           </div>
-        </div>
-        <div className='w-full h-full flex items-center justify-center'>
-            <div className='w-275 md:w-508'>
-              <CChart
-              type='doughnut'
-              data={{
-                labels: ["VueJs", "EmberJs", "ReactJs", "AngularJs"],
-                datasets: [
-                  {
-                    backgroundColor: [
-                      "#41B883",
-                      "#E46651",
-                      "#00D8FF",
-                      "#DD1B16",
-                    ],
-                    data: [40, 20, 80, 10],
-                  },
-                ],
-              }}
-              />
-            </div>
         </div>
       </div>
     </div>

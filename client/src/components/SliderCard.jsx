@@ -11,7 +11,10 @@ const SliderCard = ({data, index}) => {
   const dispatch = useDispatch()
 
   const sendToCart = () => {
-
+    dispatch(alertSuccess('Ordered! Come to the shop to pick it up!'))
+    setInterval(() => {
+        dispatch(alertNULL())
+    }, 10000);
   }
 
   return (

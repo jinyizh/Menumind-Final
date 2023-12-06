@@ -10,11 +10,11 @@ const Home = () => {
     <motion.div className='w-full grid grid-cols-1 gap-4'>
         <div className='flex flex-col items-start justify-start gap-6'>
             <p className='text-[40px] text-headingColor md:text-[60px] font-sans font-extrabold tracking-wider'>
-                Greatest Grocery in {" "}
+                Order Online at the Greatest Grocery in {" "}
                 <span className='text-orange-600'>Salt Lake City</span>!
             </p>
             <p className='text-textColor text-lg'>
-                If you not only want to buy fresh and cheap food, but also look for healthy recipes, Menumind is for you.
+                Save your time, so that you can pick your order up quickly when you arrive.
             </p>
         </div>
     </motion.div>

@@ -37,22 +37,22 @@ const Header = () => {
                 <NavLink className={({isActive}) => isActive? isActiveStyles: isNotActiveStyles} to={"/"}>
                     Home
                 </NavLink>
-                <NavLink className={({isActive}) => isActive? isActiveStyles: isNotActiveStyles} to={"/menu"}>
+                {/* <NavLink className={({isActive}) => isActive? isActiveStyles: isNotActiveStyles} to={"/menu"}>
                     Menu
                 </NavLink>
                 <NavLink className={({isActive}) => isActive? isActiveStyles: isNotActiveStyles} to={"/services"}>
                     Services
-                </NavLink>
+                </NavLink> */}
                 <NavLink className={({isActive}) => isActive? isActiveStyles: isNotActiveStyles} to={"/aboutus"}>
                     About Us
                 </NavLink>
             </ul>
-            <motion.div {...buttonClick} className='relative cursor-pointer'>
+            {/* <motion.div {...buttonClick} className='relative cursor-pointer'>
                 <MdShoppingCart className='text-3xl text-textColor' />
                 <div className='w-6 h-6 rounded-full bg-red-500 flex items-center justify-center absolute -top-4 -right-1'>
                     <p className='text-primary text-base font-semibold'>2</p>
                 </div>
-            </motion.div>
+            </motion.div> */}
             {user? (
             <>
                 <div 
@@ -74,7 +74,7 @@ const Header = () => {
                             >
                                 Dashboard
                             </Link>
-                            <Link 
+                            {/* <Link 
                             className='hover:text-red-500 text-xl text-textColor' 
                             to={"/profile"}
                             >
@@ -85,7 +85,7 @@ const Header = () => {
                             to={"/user-orders"}
                             >
                                 Orders
-                            </Link>
+                            </Link> */}
                             <hr />
                             <motion.div 
                             {...buttonClick} 

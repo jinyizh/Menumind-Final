@@ -1,0 +1,59 @@
+"filename", "language", "JavaScript", "CSS", "XML", "JavaScript JSX", "JSON", "Markdown", "HTML", "comment", "blank", "total"
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/README.md", "Markdown", 0, 0, 0, 0, 0, 1, 0, 0, 2, 3
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/README.md", "Markdown", 0, 0, 0, 0, 0, 38, 0, 0, 33, 71
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/package.json", "JSON", 0, 0, 0, 0, 59, 0, 0, 0, 1, 60
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/public/index.html", "HTML", 0, 0, 0, 0, 0, 0, 24, 23, 1, 48
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/public/manifest.json", "JSON", 0, 0, 0, 0, 25, 0, 0, 0, 1, 26
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/App.css", "CSS", 0, 33, 0, 0, 0, 0, 0, 0, 6, 39
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/App.js", "JavaScript", 43, 0, 0, 0, 0, 0, 0, 11, 4, 58
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/App.test.js", "JavaScript", 7, 0, 0, 0, 0, 0, 0, 0, 2, 9
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/animations/index.js", "JavaScript", 22, 0, 0, 0, 0, 0, 0, 0, 3, 25
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/api/index.js", "JavaScript", 40, 0, 0, 0, 0, 0, 0, 3, 6, 49
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/assets/css/Loader.css", "CSS", 0, 121, 0, 0, 0, 0, 0, 3, 19, 143
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/assets/icons/index.js", "JavaScript", 37, 0, 0, 0, 0, 0, 0, 0, 2, 39
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/assets/index.js", "JavaScript", 3, 0, 0, 0, 0, 0, 0, 0, 0, 3
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/Alert.jsx", "JavaScript JSX", 0, 0, 0, 39, 0, 0, 0, 0, 6, 45
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/DBHeader.jsx", "JavaScript JSX", 0, 0, 0, 65, 0, 0, 0, 0, 5, 70
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/DBHome.jsx", "JavaScript JSX", 0, 0, 0, 64, 0, 0, 0, 7, 7, 78
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/DBItems.jsx", "JavaScript JSX", 0, 0, 0, 73, 0, 0, 0, 0, 2, 75
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/DBLeftSection.jsx", "JavaScript JSX", 0, 0, 0, 50, 0, 0, 0, 12, 3, 65
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/DBNewItem.jsx", "JavaScript JSX", 0, 0, 0, 154, 0, 0, 0, 56, 7, 217
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/DBOrders.jsx", "JavaScript JSX", 0, 0, 0, 7, 0, 0, 0, 0, 2, 9
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/DBRightSection.jsx", "JavaScript JSX", 0, 0, 0, 19, 0, 0, 0, 0, 2, 21
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/DBUsers.jsx", "JavaScript JSX", 0, 0, 0, 7, 0, 0, 0, 0, 2, 9
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/DataTable.jsx", "JavaScript JSX", 0, 0, 0, 17, 0, 0, 0, 0, 3, 20
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/FilterSection.jsx", "JavaScript JSX", 0, 0, 0, 59, 0, 0, 0, 0, 4, 63
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/Header.jsx", "JavaScript JSX", 0, 0, 0, 91, 0, 0, 0, 24, 6, 121
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/Home.jsx", "JavaScript JSX", 0, 0, 0, 21, 0, 0, 0, 189, 25, 235
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/LoginInput.jsx", "JavaScript JSX", 0, 0, 0, 23, 0, 0, 0, 0, 3, 26
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/MainLoader.jsx", "JavaScript JSX", 0, 0, 0, 118, 0, 0, 0, 0, 2, 120
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/SliderCard.jsx", "JavaScript JSX", 0, 0, 0, 43, 0, 0, 0, 0, 5, 48
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/Spinner.jsx", "JavaScript JSX", 0, 0, 0, 11, 0, 0, 0, 0, 2, 13
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/components/index.js", "JavaScript", 17, 0, 0, 0, 0, 0, 0, 0, 0, 17
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/config/firebase.config.js", "JavaScript", 13, 0, 0, 0, 0, 0, 0, 0, 3, 16
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/containers/Dashboard.jsx", "JavaScript JSX", 0, 0, 0, 11, 0, 0, 0, 0, 2, 13
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/containers/Login.jsx", "JavaScript JSX", 0, 0, 0, 193, 0, 0, 0, 11, 19, 223
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/containers/Main.jsx", "JavaScript JSX", 0, 0, 0, 26, 0, 0, 0, 0, 4, 30
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/containers/index.js", "JavaScript", 3, 0, 0, 0, 0, 0, 0, 0, 0, 3
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/context/actions/alertActions.js", "JavaScript", 30, 0, 0, 0, 0, 0, 0, 0, 4, 34
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/context/actions/productActions.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 1, 12
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/context/actions/userActions.js", "JavaScript", 17, 0, 0, 0, 0, 0, 0, 0, 2, 19
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/context/reducers/alertReducer.js", "JavaScript", 17, 0, 0, 0, 0, 0, 0, 0, 1, 18
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/context/reducers/index.js", "JavaScript", 10, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/context/reducers/productReducer.js", "JavaScript", 11, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/context/reducers/userReducer.js", "JavaScript", 13, 0, 0, 0, 0, 0, 0, 0, 4, 17
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/index.css", "CSS", 0, 17, 0, 0, 0, 0, 0, 0, 4, 21
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/index.js", "JavaScript", 25, 0, 0, 0, 0, 0, 0, 0, 2, 27
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/logo.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/reportWebVitals.js", "JavaScript", 12, 0, 0, 0, 0, 0, 0, 0, 2, 14
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/setupTests.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 4, 1, 6
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/src/utils/styles.js", "JavaScript", 13, 0, 0, 0, 0, 0, 0, 0, 2, 15
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/client/tailwind.config.js", "JavaScript", 61, 0, 0, 0, 0, 0, 0, 1, 2, 64
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/server/firebase.json", "JSON", 0, 0, 0, 0, 17, 0, 0, 0, 1, 18
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/server/functions/.eslintrc.js", "JavaScript", 20, 0, 0, 0, 0, 0, 0, 9, 0, 29
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/server/functions/index.js", "JavaScript", 26, 0, 0, 0, 0, 0, 0, 4, 10, 40
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/server/functions/package-lock.json", "JSON", 0, 0, 0, 0, 7016, 0, 0, 0, 1, 7017
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/server/functions/package.json", "JSON", 0, 0, 0, 0, 29, 0, 0, 0, 1, 30
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/server/functions/routes/products.js", "JavaScript", 52, 0, 0, 0, 0, 0, 0, 2, 5, 59
+"/Users/jinyizhou/myGithubRepo/Menumind-Final/server/functions/routes/user.js", "JavaScript", 28, 0, 0, 0, 0, 0, 0, 1, 4, 33
+"Total", "-", 532, 171, 1, 1091, 7146, 39, 24, 360, 246, 9610

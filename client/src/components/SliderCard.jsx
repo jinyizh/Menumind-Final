@@ -2,7 +2,7 @@ import React from 'react'
 import { HiCurrencyDollar, IoBasket } from '../assets/icons'
 import { motion } from 'framer-motion'
 import { buttonClick} from '../animations'
-import { addNewItemToCart } from '../api'
+import { addNewItemToCart, getAllCartItems } from '../api'
 import { useDispatch, useSelector } from 'react-redux'
 import { alertNULL, alertSuccess } from '../context/actions/alertActions'
 
@@ -11,12 +11,7 @@ const SliderCard = ({data, index}) => {
   const dispatch = useDispatch()
 
   const sendToCart = () => {
-    addNewItemToCart(user?.user_id, data).then(res => {
-        dispatch(alertSuccess('Added to cart'))
-        setInterval(() => {
-            dispatch(alertNULL())
-        }, 3000);
-    })
+
   }
 
   return (

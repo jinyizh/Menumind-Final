@@ -12,7 +12,7 @@ const DBHome = () => {
   // "beverage",
   // "condiment",
   // "deli",
-  // "diary",
+  // "dairy",
   // "meat",
   // "produce",
 
@@ -20,7 +20,7 @@ const DBHome = () => {
   const beverage = products?.filter((item) => item.product_category === "beverage")
   const condiment = products?.filter((item) => item.product_category === "condiment")
   const deli = products?.filter((item) => item.product_category === "deli")
-  const diary = products?.filter((item) => item.product_category === "diary")
+  const dairy = products?.filter((item) => item.product_category === "dairy")
   const meat = products?.filter((item) => item.product_category === "meat")
   const produce = products?.filter((item) => item.product_category === "produce")
 
@@ -46,7 +46,7 @@ const DBHome = () => {
                 "beverage",
                 "condiment",
                 "deli",
-                "diary",
+                "dairy",
                 "meat",
                 "produce",
               ],
@@ -59,7 +59,7 @@ const DBHome = () => {
                     beverage?.length,
                     condiment?.length,
                     deli?.length,
-                    diary?.length,
+                    dairy?.length,
                     meat?.length,
                     produce?.length,
                   ],

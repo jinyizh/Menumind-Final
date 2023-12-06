@@ -9,7 +9,7 @@ export const statuses = [
     {id: 2, title: "Beverage", category: "beverage"},
     {id: 3, title: "Condiment", category: "condiment"},
     {id: 4, title: "Deli", category: "deli"},
-    {id: 5, title: "Diary", category: "diary"},
+    {id: 5, title: "Dairy", category: "dairy"},
     {id: 6, title: "Meat", category: "meat"},
     {id: 7, title: "Produce", category: "produce"},
 ]

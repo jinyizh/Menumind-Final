@@ -46,3 +46,17 @@ export const deleteAProduct = async(productId) => {
         return null
     }
 }
+
+// add an item to the cart
+export const addNewItemToCart = async(user_id, data) => {
+    try {
+        const res = await axios.post(
+            `${baseURL}/api/products/addToCart/${user_id}`,
+            {...data}
+        )
+        return res.data.data
+    }
+    catch(err) {
+        return null
+    }
+}

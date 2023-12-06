@@ -8,7 +8,6 @@ const DBHome = () => {
   const products = useSelector((state) => state.products)
   const dispatch = useDispatch()
 
-
   // "bakery",
   // "beverage",
   // "condiment",

@@ -18,12 +18,12 @@ const DBLeftSection = () => {
         >
           Home
         </NavLink>
-        <NavLink
+        {/* <NavLink
         to={"/dashboard/orders"}
         className={({isActive}) => isActive? `${isActiveStyles} px-4 py-2 border-l-8 border-red-500`: isNotActiveStyles}
         >
           Orders
-        </NavLink>
+        </NavLink> */}
         <NavLink
         to={"/dashboard/items"}
         className={({isActive}) => isActive? `${isActiveStyles} px-4 py-2 border-l-8 border-red-500`: isNotActiveStyles}
